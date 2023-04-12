@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ed63acf-8147-4c84-8d8e-c7c8c5b9aa8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicio3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio3.go" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio3.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build exercicio4.go">
+  <component name="RunManager" selected="Go Build.go build exercicio3.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="algoritmos---funcoes-giamorim21" />
       <working_directory value="$PROJECT_DIR$" />
@@ -87,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build exercicio4.go" />
         <item itemvalue="Go Build.go build exercicio3.go" />
+        <item itemvalue="Go Build.go build exercicio4.go" />
       </list>
     </recent_temporary>
   </component>
