@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ed63acf-8147-4c84-8d8e-c7c8c5b9aa8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algoritmo2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmo3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmo4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmo5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmo6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmo7.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoritmo1.go" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmo1.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go Build.go build algoritmo3.go">
+  <component name="RunManager" selected="Go Build.go build algoritmo7.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="algoritmos---funcoes-giamorim21" />
       <working_directory value="$PROJECT_DIR$" />
@@ -58,24 +59,6 @@
       <package value="algoritmos---funcoes-giamorim21" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build algoritmo1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---funcoes-giamorim21" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="algoritmos---funcoes-giamorim21" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo1.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build algoritmo2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---funcoes-giamorim21" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="algoritmos---funcoes-giamorim21" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo2.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build algoritmo3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -87,22 +70,40 @@
       <filePath value="$PROJECT_DIR$/algoritmo3.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicio1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmo4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-giamorim21" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <package value="algoritmos---funcoes-giamorim21" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicio1.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo4.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercicio3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmo5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-giamorim21" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <package value="algoritmos---funcoes-giamorim21" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/exercicio3.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo5.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algoritmo6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---funcoes-giamorim21" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="algoritmos---funcoes-giamorim21" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmo6.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algoritmo7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---funcoes-giamorim21" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="algoritmos---funcoes-giamorim21" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmo7.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algoritmo7.go" />
+        <item itemvalue="Go Build.go build algoritmo6.go" />
+        <item itemvalue="Go Build.go build algoritmo5.go" />
+        <item itemvalue="Go Build.go build algoritmo4.go" />
         <item itemvalue="Go Build.go build algoritmo3.go" />
-        <item itemvalue="Go Build.go build algoritmo2.go" />
-        <item itemvalue="Go Build.go build algoritmo1.go" />
-        <item itemvalue="Go Build.go build exercicio1.go" />
-        <item itemvalue="Go Build.go build exercicio3.go" />
       </list>
     </recent_temporary>
   </component>
