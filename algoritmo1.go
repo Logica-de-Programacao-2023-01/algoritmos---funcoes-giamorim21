@@ -7,9 +7,9 @@ import "fmt"
 
 func main() {
 	valores := []int{10, 10, 10, 10, 10}
-	fmt.Println("A media é igual:", media(valores))
+	fmt.Println("A media é igual:", medias(valores))
 }
-func media(s []int) int {
+func medias(s []int) int {
 	if len(s) == 0 {
 		return 0
 	}
